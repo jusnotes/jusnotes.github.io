@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Just Notes Slice</title>
-    <link>https://justnotes.xyz/</link>
-    <description>Recent content on Just Notes Slice</description>
+    <title>Posts on Just Notes Slice</title>
+    <link>https://justnotes.xyz/posts/</link>
+    <description>Recent content in Posts on Just Notes Slice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Aug 2021 15:21:17 +0800</lastBuildDate><atom:link href="https://justnotes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 15:21:17 +0800</lastBuildDate><atom:link href="https://justnotes.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go语言中的内存模型</title>
       <link>https://justnotes.xyz/posts/go%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/</link>
